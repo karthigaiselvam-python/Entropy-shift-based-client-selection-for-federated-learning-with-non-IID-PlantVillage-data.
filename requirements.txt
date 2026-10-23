@@ -1,0 +1,9 @@
+torch
+torchvision
+flwr[simulation]
+datasets
+matplotlib
+pandas
+numpy
+scikit-learn
+pillow
